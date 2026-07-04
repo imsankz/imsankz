@@ -129,11 +129,17 @@ I’ve built 30+ experimental and production tools across:
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsankz&theme=github_dark" alt="Profile Details" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imsankz&show_icons=true&theme=github_dark&hide_border=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imsankz&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imsankz&theme=github_dark&utcOffset=1" alt="Productive Time" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsankz&layout=compact&theme=github_dark&hide_border=true" />
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsankz&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imsankz&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 ---
