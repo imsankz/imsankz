@@ -1,16 +1,177 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**imsankz/imsankz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sankalp 👋
 
-Here are some ideas to get you started:
+### Senior Software Engineer | Mainframe & Payments Systems Expert
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Builder of Travel, SEO & AI Product Ecosystems
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I’m a **Senior Software Engineer with 10+ years of experience** in **financial infrastructure and mainframe systems**, specializing in:
+
+* SEPA payments processing
+* COBOL, CICS, DB2-based enterprise systems
+* High-volume transaction processing
+* Banking-grade reliability & batch systems
+* Legacy system modernization in financial environments
+
+Alongside my day job, I actively build **modern SaaS products and digital ecosystems** across travel, SEO, and AI.
+
+I enjoy working at both ends of the spectrum:
+
+> **Mission-critical mainframe systems by day — scalable internet products by night.**
+
+---
+
+## 💼 What I Work On
+
+### 🏦 Enterprise / Day Job
+
+* Mainframe engineering (COBOL, CICS, DB2)
+* SEPA payment systems
+* Financial infrastructure & batch processing
+* Core banking reliability systems
+* Performance-critical enterprise applications
+
+---
+
+### 🚀 Founder & Builder Projects
+
+#### 🌍 Travel Ecosystems
+
+* https://chasingwhereabouts.com/
+* https://letsgogermany.com/
+* https://thevenicepass.com/
+* YouTube: https://youtube.com/chasingwhereabouts
+
+#### ⚡ New Build: KreatorLane
+
+* https://kreatorlane.com/
+
+A growing platform focused on:
+
+* Creator discovery
+* Affiliate & influencer workflows
+* Outreach automation
+* Conversion tracking systems
+* Product-led growth experimentation
+
+---
+
+### 🧩 SaaS & Tooling Ecosystem
+
+I’ve built 30+ experimental and production tools across:
+
+**SEO & Growth Systems**
+
+* Backlink Monitor / Checker
+* Sitemap Extractor
+* SEO Flow tools
+* URL Shortener systems
+* Hashtag & content generators
+
+**AI & Automation**
+
+* Email Forge AI
+* CW AI Tools
+* Content generation pipelines
+* Podcast & blog automation systems
+
+**Travel & Utility Tools**
+
+* Visa calculators (Schengen, etc.)
+* Itinerary generators
+* Packing / budget / travel planners
+* Location-based discovery tools
+
+**WordPress & Plugins**
+
+* Map plugins
+* Checklist systems
+* Weather / travel insights plugins
+* Content automation plugins
+
+---
+
+## 🛠 Tech Stack
+
+### Enterprise Systems
+
+* COBOL
+* CICS
+* DB2
+* JCL
+* VSAM
+* Mainframe tooling & batch systems
+
+### Modern Stack
+
+* Node.js
+* Python
+* React
+* TypeScript / JavaScript
+* PHP (WordPress ecosystem)
+
+### Infrastructure
+
+* APIs & integrations
+* Web automation & scraping
+* SaaS architectures
+* Cloud deployments (lightweight systems)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imsankz&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsankz&layout=compact&theme=github_dark&hide_border=true" />
+
+</p>
+
+---
+
+## 🔥 Current Focus
+
+* Scaling **KreatorLane** into a full creator growth platform
+* Expanding travel ecosystems into structured SaaS products
+* Building SEO + automation systems for content scaling
+* Exploring AI-assisted product workflows
+* Improving system design across both legacy + modern stacks
+
+---
+
+## 🌍 Live Projects
+
+* https://kreatorlane.com/
+* https://chasingwhereabouts.com/
+* https://letsgogermany.com/
+* https://thevenicepass.com/
+
+---
+
+## 🤝 Connect
+
+* LinkedIn: https://www.linkedin.com/in/imsankz/
+* Open to discussions around:
+
+  * Payments systems & mainframe engineering
+  * SaaS architecture
+  * Creator economy tools
+  * SEO + automation systems
+  * Travel-tech ecosystems
+
+---
+
+<div align="center">
+
+### “From mainframes to modern SaaS — I build systems that scale.”
+
+</div>
