@@ -36,8 +36,6 @@ Alongside my day job, I actively build **modern SaaS products and digital ecosys
 - Core banking reliability systems
 - Performance-critical enterprise applications
 
----
-
 ### 🚀 Founder & Builder Projects
 
 #### 🌍 Travel Ecosystems
@@ -47,19 +45,25 @@ Alongside my day job, I actively build **modern SaaS products and digital ecosys
 - https://thevenicepass.com/
 - YouTube: https://youtube.com/chasingwhereabouts
 
-#### ⚡ New Build: KreatorLane
+#### 🔍 Open-Source SEO & Content Tools
+
+- **SeoFlow** — AI-powered SEO pipeline that lives in your repo: 12-step audit (keywords, meta, internal links, images, content, schema, technical, fact-check), 19 specialist agents, 7 LLM providers with auto-fallback, self-learning priority system. Works with any MDX/Markdown stack (Next.js, Hugo, Astro, 11ty). Install: `npm install -D seoflow` → https://github.com/imsankz/seoflow · [npm](https://www.npmjs.com/package/seoflow)
+
+#### 🧠 Mainframe-Brain
+
+- https://github.com/imsankz/mainframe-brain
+
+Open-source, model-agnostic knowledge system for legacy mainframe applications. Deterministic COBOL/JCL/CICS/DB2/VSAM extraction into a portable knowledge graph + selective content-hashed LLM enrichment of undocumented business rules. Apache 2.0 — runs without an LLM.
+
+#### ⚡ KreatorLane
 
 - https://kreatorlane.com/
 
-A growing platform focused on:
+Creator growth platform: discovery, affiliate/influencer workflows, outreach automation, conversion tracking.
 
-- Creator discovery
-- Affiliate & influencer workflows
-- Outreach automation
-- Conversion tracking systems
-- Product-led growth experimentation
+#### 🔐 Security Tooling
 
----
+- **SECflow** — zero-cost security scanning for AI-driven repos (secrets, dependency vulns, custom rules) with AI-ready fix reports. Install with `npm i -g secflow` → https://github.com/imsankz/SECflow
 
 ### 🧩 SaaS & Tooling Ecosystem
 
@@ -67,9 +71,9 @@ I've built 30+ experimental and production tools across:
 
 **SEO & Growth Systems**
 
+- **SeoFlow** — flagship: AI SEO pipeline with 12 audit steps + 19 agents (see Founder section above)
 - Backlink Monitor / Checker
 - Sitemap Extractor
-- SEO Flow tools
 - URL Shortener systems
 - Hashtag & content generators
 
@@ -79,10 +83,6 @@ I've built 30+ experimental and production tools across:
 - CW AI Tools
 - Content generation pipelines
 - Podcast & blog automation systems
-
-**Developer Security & DevOps**
-
-- **SECflow** — zero-cost security scanning for AI-driven repos (secrets, dependency vulns, custom rules) with AI-ready fix reports. Install with `npm i -g secflow` → https://github.com/imsankz/SECflow
 
 **Travel & Utility Tools**
 
@@ -149,8 +149,9 @@ I've built 30+ experimental and production tools across:
 ## 🔥 Current Focus
 
 - Scaling **KreatorLane** into a full creator growth platform
+- Growing **SeoFlow** adoption (npm-published, 19 agents, self-learning)
+- Expanding **Mainframe-Brain** for enterprise legacy modernization
 - Expanding travel ecosystems into structured SaaS products
-- Building SEO + automation systems for content scaling
 - Exploring AI-assisted product workflows
 - Improving system design across both legacy + modern stacks
 
@@ -158,11 +159,16 @@ I've built 30+ experimental and production tools across:
 
 ## 🌍 Live Projects
 
-- https://kreatorlane.com/
-- https://chasingwhereabouts.com/
-- https://letsgogermany.com/
-- https://thevenicepass.com/
-- https://github.com/imsankz/SECflow
+- **KreatorLane** — https://kreatorlane.com/
+- **Chasing Whereabouts** — https://chasingwhereabouts.com/
+- **LetsGoGermany** — https://letsgogermany.com/
+- **The Venice Pass** — https://thevenicepass.com/
+
+### Open Source
+
+- **SeoFlow** — https://github.com/imsankz/seoflow · [npm](https://www.npmjs.com/package/seoflow) — AI SEO pipeline
+- **Mainframe-Brain** — https://github.com/imsankz/mainframe-brain — knowledge graph for COBOL/CICS/DB2
+- **SECflow** — https://github.com/imsankz/SECflow — security scanner
 
 ---
 
@@ -174,8 +180,9 @@ I've built 30+ experimental and production tools across:
   - Payments systems & mainframe engineering
   - SaaS architecture
   - Creator economy tools
-  - SEO + automation systems
+  - SEO + automation systems (SeoFlow)
   - Travel-tech ecosystems
+  - Mainframe modernization (Mainframe-Brain)
 
 ---
 
