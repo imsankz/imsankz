@@ -6,7 +6,7 @@
 
 ### Builder of Travel, SEO & AI Product Ecosystems
 
-### Open-source maintainer of SeoFlow, SECflow & LinkFlow
+### Open-source maintainer of SeoFlow, SECflow & BacklinkFlow
 
 </div>
 
@@ -86,7 +86,7 @@ I've built 30+ experimental and production tools across:
 
 - **SECflow** — zero-cost security scanning for AI-driven repos (secrets, dependency vulns, custom rules) with AI-ready fix reports. Install with `npm i -g secflow` → https://github.com/imsankz/SECflow
 - **SeoFlow** — AI-powered SEO pipeline for any content site (audit, internal linking, content gen, GSC). Programmatic SEO without the SaaS lock-in. Install with `npm i -g seoflow` → https://github.com/imsankz/seoflow
-- **LinkFlow** — open-source alternative to Submitator/ListingBott ($29–499). Submit your product to 1,123 vetted directories with Playwright automation + AI-tailored copy + proof-of-submission reports. $0, your own AI endpoint. → https://github.com/imsankz/linkflow
+- **BacklinkFlow** — open-source alternative to Submitator/ListingBott ($29–499). Submit your product to 1,123 vetted directories with Playwright automation + AI-tailored copy + proof-of-submission reports. $0, your own AI endpoint. → https://github.com/imsankz/backlinkflow
 
 **Travel & Utility Tools**
 
@@ -168,7 +168,7 @@ I've built 30+ experimental and production tools across:
 - https://thevenicepass.com/
 - https://github.com/imsankz/SECflow
 - https://github.com/imsankz/seoflow
-- https://github.com/imsankz/linkflow
+- https://github.com/imsankz/backlinkflow
 
 ---
 
